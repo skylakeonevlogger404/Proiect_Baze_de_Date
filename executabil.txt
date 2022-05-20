@@ -1,0 +1,1 @@
+Executabilul solutiei create se afla in StandUPLogin\StandUPLogin\bin\Debug\StandUPLogin.exe
